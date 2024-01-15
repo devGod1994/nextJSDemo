@@ -5,7 +5,7 @@ This app demonstrates how you can build a marketing site using Next.js on the Fr
 <img src="https://user-images.githubusercontent.com/6391763/54627869-47b56500-4a9a-11e9-812e-ddb71b56f56e.png" alt="Preview">
 
 ## Important Notice
-This project was created as an example use case of ButterCMS and will not be actively maintained. 
+This project was created as an example use case of NextJS. 
 
 If you’re interested in exploring the best, most up-to-date way to integrate Butter into Next.js and React, you can check out the following resources:
 
