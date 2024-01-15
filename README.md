@@ -1,4 +1,4 @@
-# Build a marketing site using Next.js
+# Build a E-Commerce site using Next.js
 
 This app demonstrates how you can build a marketing site using Next.js on the Front End and the API will be powered by ButterCMS. Next.js is a React.js framework which will do Server Side Rendering for you. As a result, your site will have better SEO score.
 
