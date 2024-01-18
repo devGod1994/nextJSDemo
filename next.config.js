@@ -1,5 +1,4 @@
-module.exports = {
-    images: {
-        domains: ["cdn.buttercms.com"],
-    },
-};
+/** @type {import('next').NextConfig} */
+const nextConfig = {};
+
+module.exports = nextConfig;
